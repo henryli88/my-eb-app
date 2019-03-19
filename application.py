@@ -111,7 +111,7 @@ welcome = """
 <body id="sample">
   <div class="textColumn">
     <h1>CI/ CD PIPELINE:</h1><br />
-    <h2>Code is automatically pushed to Jenkins on AWS from this GitHub:<br />
+    <h2>Using Jenkins, code is automatically pushed to AWS from this GitHub:<br />
     https://github.com/henryli88/my-eb-app</h2><br /> 
     <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
   </div>
