@@ -69,7 +69,7 @@ welcome = """
     bottom: 0px;
     left: 0px;
 
-    text-align: right;
+    text-align: left;
     padding-top: 11em;
     background-color: #1BA86D;
     background-image: -moz-radial-gradient(left top, circle, #6AF9BD 0%, #00B386 60%);
