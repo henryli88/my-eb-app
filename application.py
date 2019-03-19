@@ -110,7 +110,7 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>CI/ CD pipeline, pushed from GitHub. Can I get a what what?? Booyah. I did it again.</h1>
+    <h1>CI/ CD PIPELINE: code is automatically pushed from GitHub here: https://github.com/henryli88/my-eb-app</h1>
     <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
   </div>
   
