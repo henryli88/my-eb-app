@@ -110,7 +110,9 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h2>CI/ CD PIPELINE: code is automatically pushed from GitHub here: https://github.com/henryli88/my-eb-app</h2>
+    <h1>CI/ CD PIPELINE:</h1><br />
+    <h2>Code is automatically pushed from GitHub here:<br />
+    https://github.com/henryli88/my-eb-app</h2>
     <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
   </div>
   
